@@ -21,7 +21,7 @@ class MyComponent extends Component {
     return ( <
       div >
       <
-      h1 > My Component-2 < /h1> <
+      h1 > My Component2 < /h1> <
       hr / >
       <
       /div>
